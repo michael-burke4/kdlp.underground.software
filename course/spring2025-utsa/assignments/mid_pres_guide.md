@@ -66,4 +66,4 @@ You will create a short presentation about research into a topic of your choice 
 
     - Or suggest your own!
 
-[Policies & Procedures](/faq/procedures.md)
+[Policies & Procedures](/course/spring2025-utsa/faq/procedures)

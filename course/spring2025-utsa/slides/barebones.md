@@ -12,7 +12,7 @@ _color: white
 
 # Lecture overview
 
-0. Why [setup](/assignments/setup.md)?
+0. Why [setup](/course/spring2025-utsa/assignments/setup)?
 
 0. Barebones kernel
 

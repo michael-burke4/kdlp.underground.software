@@ -235,4 +235,4 @@ Slot 7: 4:10-4:45
 Slot 8: 3:30-4:05
 Slot 9: 4:10-4:45
 
-[Policies & Procedures](/faq/procedures.md)
+[Policies & Procedures](/course/spring2025-utsa/faq/procedures)

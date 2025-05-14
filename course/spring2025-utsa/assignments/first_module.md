@@ -130,4 +130,4 @@ that it will create in `/proc`
 
     * Don't overcomplicate things
 
-[Policies & Procedures](/faq/procedures.md)
+[Policies & Procedures](/course/spring2025-utsa/faq/procedures)

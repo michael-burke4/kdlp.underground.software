@@ -2,22 +2,22 @@
 
 | Week # | Class dates | Useful information |
 | -- | -- | -- |
-| 0 | 21/23 Jan | syllabus/policies/setup [L00](/lectures/L00.md) |
-| 1 | 28/30 Jan | [setup due](/assignments/setup.md) barebones Linux [L01](/lectures/L01.md) [L02](/lectures/L02.md) |
-| 2 | 04/06 Feb | [new_syscall due](/assignments/new_syscall.md) syscalls [L03](/lectures/L03.md) [L04](/lectures/L04.md) |
-| 3 | 11/13 Feb | syscall [L05](/lectures/L05.md) [L06](/lectures/L06.md) |
-| 4 | 18/20 Feb | [page_walk due](/assignments/page_walk.md) memory management [L07](/lectures/L07.md) [L08](/lectures/L08.md) |
-| 5 | 25/27 Feb | [midpoint proposal due Thurs](/assignments/midpoint.md) mm cont. [L09](/lectures/L09.md) [L10](/lectures/L10.md) |
-| 6 | 04/06 Mar | [shell due](/assignments/shell.md) VFS: open [L11](/lectures/L11.md) [L12](/lectures/L12.md) |
+| 0 | 21/23 Jan | syllabus/policies/setup [L00](/course/spring2025-utsa/lectures/L00) |
+| 1 | 28/30 Jan | [setup due](/course/spring2025-utsa/assignments/setup) barebones Linux [L01](/course/spring2025-utsa/lectures/L01) [L02](/course/spring2025-utsa/lectures/L02) |
+| 2 | 04/06 Feb | [new_syscall due](/assignments/new_syscall.md) syscalls [L03](/course/spring2025-utsa/lectures/L03) [L04](/course/spring2025-utsa/lectures/L04) |
+| 3 | 11/13 Feb | syscall [L05](/course/spring2025-utsa/lectures/L05) [L06](/course/spring2025-utsa/lectures/L06) |
+| 4 | 18/20 Feb | [page_walk due](/assignments/page_walk.md) memory management [L07](/course/spring2025-utsa/lectures/L07) [L08](/course/spring2025-utsa/lectures/L08) |
+| 5 | 25/27 Feb | [midpoint proposal due Thurs](/course/spring2025-utsa/assignments/midpoint) mm cont. [L09](/course/spring2025-utsa/lectures/L09) [L10](/course/spring2025-utsa/lectures/L10) |
+| 6 | 04/06 Mar | [shell due](/course/spring2025-utsa/assignments/shell) VFS: open [L11](/course/spring2025-utsa/lectures/L11) [L12](/course/spring2025-utsa/lectures/L12) |
 | 7 | 11/13 Mar | SPRING BREAK: no class |
-| 8 | 18/19 Mar | [midpoint presentation due Thurs](/assignments/midpoint.md) VFS: close [L13](/lectures/L13.md) [L14](/lectures/L14.md) |
-| 9 | 25/27 Mar | VFS: read/write [L15](/lectures/L15.md) [L16](/lectures/L16.md) |
-| 10 | 01/03 Apr | VFS: write/ioctl/seek [L17](/lectures/L17.md) [L18](/lectures/L18.md) |
-| 11 | 08/10 Apr | modules [L19](/lectures/L19.md) [L20](/lectures/L20.md) |
-| 12 | 15/17 Apr | modules/chardevs [L21](/lectures/L21.md) [L22](/lectures/L22.md) |
-| 13 | 22/24 Apr | [final project](/assignments/final_project.md) chardevs [L23](/lectures/L23.md) [L24](/lectures/L24.md) |
-| 14 | 29/01 Apr | final presentations [L25](/lectures/L25.md) [L26](/lectures/L26.md) |
-| 15 | 06/08 May | final presentations [L27](/lectures/L27.md) [L28](/lectures/L28.md) |
+| 8 | 18/19 Mar | [midpoint presentation due Thurs](/course/spring2025-utsa/assignments/midpoint) VFS: close [L13](/course/spring2025-utsa/lectures/L13) [L14](/course/spring2025-utsa/lectures/L14) |
+| 9 | 25/27 Mar | VFS: read/write [L15](/course/spring2025-utsa/lectures/L15) [L16](/course/spring2025-utsa/lectures/L16) |
+| 10 | 01/03 Apr | VFS: write/ioctl/seek [L17](/course/spring2025-utsa/lectures/L17) [L18](/course/spring2025-utsa/lectures/L18) |
+| 11 | 08/10 Apr | modules [L19](/course/spring2025-utsa/lectures/L19) [L20](/course/spring2025-utsa/lectures/L20) |
+| 12 | 15/17 Apr | modules/chardevs [L21](/course/spring2025-utsa/lectures/L21) [L22](/course/spring2025-utsa/lectures/L22) |
+| 13 | 22/24 Apr | [final project](/assignments/final_project.md) chardevs [L23](/course/spring2025-utsa/lectures/L23) [L24](/course/spring2025-utsa/lectures/L24) |
+| 14 | 29/01 Apr | final presentations [L25](/course/spring2025-utsa/lectures/L25) [L26](/course/spring2025-utsa/lectures/L26) |
+| 15 | 06/08 May | final presentations [L27](/course/spring2025-utsa/lectures/L27) [L28](/course/spring2025-utsa/lectures/L28) |
 
 #### [Frequently Asked Questions](faq.md)
 

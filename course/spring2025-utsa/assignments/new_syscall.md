@@ -108,7 +108,7 @@ Add a new system call to the kernel
 
     0. Boot your new kernel with your the old init program from setup
 
-        * Use the same `qemu` command from [setup](/setup)
+        * Use the same `qemu` command from [setup](/setup.md)
 
         * If all is well it should boot successfully
 
@@ -184,4 +184,4 @@ This page could be useful: This page should be useful: https://elixir.bootlin.co
 
 Refer to the [Linux kernel documentation about adding system calls](https://www.kernel.org/doc/html/latest/process/adding-syscalls.html) for further guidance.
 
-[Frequently Asked Questions](/faq/faq.md)
+[Frequently Asked Questions](/course/spring2025-utsa/faq/faq)
