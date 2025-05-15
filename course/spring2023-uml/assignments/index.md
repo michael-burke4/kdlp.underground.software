@@ -1,5 +1,5 @@
 ## Pre-requisites
-[A(-1)](course_application.md)
+[A(-1)](/archive)
 
 ## Assignments
 
